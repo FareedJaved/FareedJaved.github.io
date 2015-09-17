@@ -2,7 +2,7 @@
 title: Fareed Javed 
 email: fareedjaved@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- "Fareed Javed is a Junior studying computer science at the University of Maryland, College Park." 
+ "Fareed Javed is an aspiring developer. He is currently a Junior studying computer science at the University of Maryland, College Park." 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: yuccabyte
