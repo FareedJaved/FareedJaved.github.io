@@ -1,11 +1,11 @@
 # Site settings
-title: Fareed Javed 
+title: Fareed Javed
 email: fareedjaved@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- "Hi! My name's Fareed Javed and I am an aspiring developer. Currently in my last semester at University of Maryland. Here are some projects that I've worked on.'" 
+ "Hey there! Check out my github and feel free to follow me on Twitter :) "
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: yuccabyte
+twitter_username: fareed_codes
 github_username:  FareedJaved
 
 # Build settings
